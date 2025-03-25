@@ -1,0 +1,531 @@
+2024-08-08 00:24:48,517 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\ZalimSk\\AppData\\Roaming\\Python\\Python311\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-08-08 00:24:48,519 - INFO - Using writeable comtypes cache directory: 'C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\comtypes\gen'2024-08-13 11:32:32,539 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\ZalimSk\\AppData\\Roaming\\Python\\Python311\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-08-13 11:32:32,569 - INFO - Using writeable comtypes cache directory: 'C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\comtypes\gen'
+2024-08-13 11:32:53,942 - INFO - Spoke: Sorry, I did not understand that.
+2024-08-13 11:33:06,006 - INFO - Spoke: An unexpected error occurred: name 'nlp' is not defined
+2024-08-13 11:33:06,006 - ERROR - Unexpected error: name 'nlp' is not defined
+2024-08-13 11:33:13,583 - INFO - Spoke: Sorry, I did not understand that.
+2024-08-13 11:33:27,715 - INFO - Spoke: Sorry, I did not understand that.
+2024-08-13 11:35:04,906 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\ZalimSk\\AppData\\Roaming\\Python\\Python311\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-08-13 11:35:04,907 - INFO - Using writeable comtypes cache directory: 'C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\comtypes\gen'
+2024-08-13 11:35:37,206 - INFO - Spoke: An unexpected error occurred: name 'nlp' is not defined
+2024-08-13 11:35:37,206 - ERROR - Unexpected error: name 'nlp' is not defined
+2024-08-13 11:35:51,931 - INFO - Spoke: Sorry, I did not understand that.
+2024-08-13 11:36:03,041 - INFO - Spoke: An unexpected error occurred: name 'nlp' is not defined
+2024-08-13 11:36:03,041 - ERROR - Unexpected error: name 'nlp' is not defined
+2024-08-13 12:15:52,895 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\ZalimSk\\AppData\\Roaming\\Python\\Python311\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-08-13 12:15:52,927 - INFO - Using writeable comtypes cache directory: 'C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\comtypes\gen'
+2024-08-13 12:17:31,351 - WARNING - Error while downloading from https://cdn-lfs.huggingface.co/facebook/bart-large-mnli/ce253627f98f9db22af6a86efee6e905f001f7d8dc02dd14a8b4b4710c302b17?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27pytorch_model.bin%3B+filename%3D%22pytorch_model.bin%22%3B&response-content-type=application%2Foctet-stream&Expires=1723790523&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyMzc5MDUyM319LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9mYWNlYm9vay9iYXJ0LWxhcmdlLW1ubGkvY2UyNTM2MjdmOThmOWRiMjJhZjZhODZlZmVlNmU5MDVmMDAxZjdkOGRjMDJkZDE0YThiNGI0NzEwYzMwMmIxNz9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPSomcmVzcG9uc2UtY29udGVudC10eXBlPSoifV19&Signature=eN2x0KSjzGhvSVNXbvDAiOvKKij-NOUDVmoKwVI25iQ0%7E%7EPdb1f8dQ8EvpaB-iSG0gXtaNcWMEXomymjZ5-lqjsHF4Dtzy-DHgXpiOEirOXeBkN1Q7n4pt43I-83mPfnmJ7k6LcNOSuEWlvfQ-j6B5Q4g8wy7MslLqnSDbh5p4Bq6xzjh69KKQNFzV87TkH4eHFzsOaQSwPDbJ-hcoFjx4F9bo5K0omQ4RztQ0AP2yZH-mmd3WQf%7EQajq9D9n7vZMOmbDTOVXdPRTMCPbO7A1b0Jp3vdrfl-stAzOKy-yn1pgQLY20p1zeWJvhTt%7ENQkzCcA3Vowu9ScISM7A8tLeA__&Key-Pair-Id=K3ESJI6DHPFC7: HTTPSConnectionPool(host='cdn-lfs.huggingface.co', port=443): Read timed out.
+Trying to resume download...
+2024-08-13 12:17:47,774 - WARNING - Error while downloading from https://cdn-lfs.huggingface.co/facebook/bart-large-mnli/ce253627f98f9db22af6a86efee6e905f001f7d8dc02dd14a8b4b4710c302b17?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27pytorch_model.bin%3B+filename%3D%22pytorch_model.bin%22%3B&response-content-type=application%2Foctet-stream&Expires=1723790523&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyMzc5MDUyM319LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9mYWNlYm9vay9iYXJ0LWxhcmdlLW1ubGkvY2UyNTM2MjdmOThmOWRiMjJhZjZhODZlZmVlNmU5MDVmMDAxZjdkOGRjMDJkZDE0YThiNGI0NzEwYzMwMmIxNz9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPSomcmVzcG9uc2UtY29udGVudC10eXBlPSoifV19&Signature=eN2x0KSjzGhvSVNXbvDAiOvKKij-NOUDVmoKwVI25iQ0%7E%7EPdb1f8dQ8EvpaB-iSG0gXtaNcWMEXomymjZ5-lqjsHF4Dtzy-DHgXpiOEirOXeBkN1Q7n4pt43I-83mPfnmJ7k6LcNOSuEWlvfQ-j6B5Q4g8wy7MslLqnSDbh5p4Bq6xzjh69KKQNFzV87TkH4eHFzsOaQSwPDbJ-hcoFjx4F9bo5K0omQ4RztQ0AP2yZH-mmd3WQf%7EQajq9D9n7vZMOmbDTOVXdPRTMCPbO7A1b0Jp3vdrfl-stAzOKy-yn1pgQLY20p1zeWJvhTt%7ENQkzCcA3Vowu9ScISM7A8tLeA__&Key-Pair-Id=K3ESJI6DHPFC7: HTTPSConnectionPool(host='cdn-lfs.huggingface.co', port=443): Read timed out.
+Trying to resume download...
+2024-08-13 12:18:35,354 - WARNING - Error while downloading from https://cdn-lfs.huggingface.co/facebook/bart-large-mnli/cfbb687dbbd9df99fe865e1860350a22aebac4d26ee4bcb50217f1df606a018e?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27model.safetensors%3B+filename%3D%22model.safetensors%22%3B&Expires=1723790241&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyMzc5MDI0MX19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9mYWNlYm9vay9iYXJ0LWxhcmdlLW1ubGkvY2ZiYjY4N2RiYmQ5ZGY5OWZlODY1ZTE4NjAzNTBhMjJhZWJhYzRkMjZlZTRiY2I1MDIxN2YxZGY2MDZhMDE4ZT9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPSoifV19&Signature=fHfv2jrLgHiUe5TNA9ztxMimyhgKV3ylIfARPBzMtjIC9v0AL2vJM5Dskt0TK8Ts5FSUDa96dANAClao3Ga44k0OPO3JOeFVOvon33yGmuqx9aLYj8zf0iJMQnv8Qt34BCeY8K8z%7EP0U-rvf1D%7EXqh-JvIxgDoSXwWIPbupMERUfqUdimKoN2F0j-JL8yyuAMsGJaxXSUJF%7ERPsvNGNlS8F-4Uf0qnMzbLjB7pcSbE0NHxSOckl2pjXbpzGFUqztlMHhX2McxMm2ek96V7igdvCU4iYzLyTZSDS3nbzRIzJElgqZLZUbAUxwtXNx7vJrKtrj-oDFOXi5cKxC-dusNQ__&Key-Pair-Id=K3ESJI6DHPFC7: HTTPSConnectionPool(host='cdn-lfs.huggingface.co', port=443): Read timed out.
+Trying to resume download...
+2024-08-13 12:19:12,802 - WARNING - Error while downloading from https://cdn-lfs.huggingface.co/facebook/bart-large-mnli/cfbb687dbbd9df99fe865e1860350a22aebac4d26ee4bcb50217f1df606a018e?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27model.safetensors%3B+filename%3D%22model.safetensors%22%3B&Expires=1723790241&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyMzc5MDI0MX19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9mYWNlYm9vay9iYXJ0LWxhcmdlLW1ubGkvY2ZiYjY4N2RiYmQ5ZGY5OWZlODY1ZTE4NjAzNTBhMjJhZWJhYzRkMjZlZTRiY2I1MDIxN2YxZGY2MDZhMDE4ZT9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPSoifV19&Signature=fHfv2jrLgHiUe5TNA9ztxMimyhgKV3ylIfARPBzMtjIC9v0AL2vJM5Dskt0TK8Ts5FSUDa96dANAClao3Ga44k0OPO3JOeFVOvon33yGmuqx9aLYj8zf0iJMQnv8Qt34BCeY8K8z%7EP0U-rvf1D%7EXqh-JvIxgDoSXwWIPbupMERUfqUdimKoN2F0j-JL8yyuAMsGJaxXSUJF%7ERPsvNGNlS8F-4Uf0qnMzbLjB7pcSbE0NHxSOckl2pjXbpzGFUqztlMHhX2McxMm2ek96V7igdvCU4iYzLyTZSDS3nbzRIzJElgqZLZUbAUxwtXNx7vJrKtrj-oDFOXi5cKxC-dusNQ__&Key-Pair-Id=K3ESJI6DHPFC7: HTTPSConnectionPool(host='cdn-lfs.huggingface.co', port=443): Read timed out.
+Trying to resume download...
+2024-08-13 12:19:25,535 - WARNING - Error while downloading from https://cdn-lfs.huggingface.co/facebook/bart-large-mnli/cfbb687dbbd9df99fe865e1860350a22aebac4d26ee4bcb50217f1df606a018e?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27model.safetensors%3B+filename%3D%22model.safetensors%22%3B&Expires=1723790241&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyMzc5MDI0MX19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9mYWNlYm9vay9iYXJ0LWxhcmdlLW1ubGkvY2ZiYjY4N2RiYmQ5ZGY5OWZlODY1ZTE4NjAzNTBhMjJhZWJhYzRkMjZlZTRiY2I1MDIxN2YxZGY2MDZhMDE4ZT9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPSoifV19&Signature=fHfv2jrLgHiUe5TNA9ztxMimyhgKV3ylIfARPBzMtjIC9v0AL2vJM5Dskt0TK8Ts5FSUDa96dANAClao3Ga44k0OPO3JOeFVOvon33yGmuqx9aLYj8zf0iJMQnv8Qt34BCeY8K8z%7EP0U-rvf1D%7EXqh-JvIxgDoSXwWIPbupMERUfqUdimKoN2F0j-JL8yyuAMsGJaxXSUJF%7ERPsvNGNlS8F-4Uf0qnMzbLjB7pcSbE0NHxSOckl2pjXbpzGFUqztlMHhX2McxMm2ek96V7igdvCU4iYzLyTZSDS3nbzRIzJElgqZLZUbAUxwtXNx7vJrKtrj-oDFOXi5cKxC-dusNQ__&Key-Pair-Id=K3ESJI6DHPFC7: HTTPSConnectionPool(host='cdn-lfs.huggingface.co', port=443): Read timed out.
+Trying to resume download...
+2024-08-13 12:19:37,929 - ERROR - Failed to initialize NLP pipeline: Could not load model facebook/bart-large-mnli with any of the following classes: (<class 'transformers.models.auto.modeling_auto.AutoModelForSequenceClassification'>, <class 'transformers.models.bart.modeling_bart.BartForSequenceClassification'>). See the original errors:
+
+while loading with AutoModelForSequenceClassification, an error is thrown:
+Traceback (most recent call last):
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\response.py", line 710, in _error_catcher
+    yield
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\response.py", line 814, in _raw_read
+    data = self._fp_read(amt) if not fp_closed else b""
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\response.py", line 799, in _fp_read
+    return self._fp.read(amt) if amt is not None else self._fp.read()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\http\client.py", line 466, in read
+    s = self.fp.read(amt)
+        ^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\socket.py", line 706, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\ssl.py", line 1311, in recv_into
+    return self.read(nbytes, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\ssl.py", line 1167, in read
+    return self._sslobj.read(len, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\requests\models.py", line 816, in generate
+    yield from self.raw.stream(chunk_size, decode_content=True)
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\response.py", line 936, in stream
+    data = self.read(amt=amt, decode_content=decode_content)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\response.py", line 879, in read
+    data = self._raw_read(amt)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\response.py", line 813, in _raw_read
+    with self._error_catcher():
+  File "C:\Program Files\Python311\Lib\contextlib.py", line 155, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\response.py", line 715, in _error_catcher
+    raise ReadTimeoutError(self._pool, None, "Read timed out.") from e  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='cdn-lfs.huggingface.co', port=443): Read timed out.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\huggingface_hub\file_download.py", line 524, in http_get
+    for chunk in r.iter_content(chunk_size=DOWNLOAD_CHUNK_SIZE):
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\requests\models.py", line 822, in generate
+    raise ConnectionError(e)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='cdn-lfs.huggingface.co', port=443): Read timed out.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\response.py", line 710, in _error_catcher
+    yield
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\response.py", line 814, in _raw_read
+    data = self._fp_read(amt) if not fp_closed else b""
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\response.py", line 799, in _fp_read
+    return self._fp.read(amt) if amt is not None else self._fp.read()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\http\client.py", line 466, in read
+    s = self.fp.read(amt)
+        ^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\socket.py", line 706, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\ssl.py", line 1311, in recv_into
+    return self.read(nbytes, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\ssl.py", line 1167, in read
+    return self._sslobj.read(len, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\requests\models.py", line 816, in generate
+    yield from self.raw.stream(chunk_size, decode_content=True)
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\response.py", line 936, in stream
+    data = self.read(amt=amt, decode_content=decode_content)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\response.py", line 879, in read
+    data = self._raw_read(amt)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\response.py", line 813, in _raw_read
+    with self._error_catcher():
+  File "C:\Program Files\Python311\Lib\contextlib.py", line 155, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\response.py", line 715, in _error_catcher
+    raise ReadTimeoutError(self._pool, None, "Read timed out.") from e  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='cdn-lfs.huggingface.co', port=443): Read timed out.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\huggingface_hub\file_download.py", line 524, in http_get
+    for chunk in r.iter_content(chunk_size=DOWNLOAD_CHUNK_SIZE):
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\requests\models.py", line 822, in generate
+    raise ConnectionError(e)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='cdn-lfs.huggingface.co', port=443): Read timed out.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\connectionpool.py", line 536, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\connection.py", line 461, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\http\client.py", line 1378, in getresponse
+    response.begin()
+  File "C:\Program Files\Python311\Lib\http\client.py", line 318, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\http\client.py", line 279, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\socket.py", line 706, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\ssl.py", line 1311, in recv_into
+    return self.read(nbytes, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\ssl.py", line 1167, in read
+    return self._sslobj.read(len, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\util\retry.py", line 470, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\util\util.py", line 39, in reraise
+    raise value
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\connectionpool.py", line 538, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\connectionpool.py", line 370, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='cdn-lfs.huggingface.co', port=443): Read timed out. (read timeout=10)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\transformers\pipelines\base.py", line 278, in infer_framework_load_model
+    model = model_class.from_pretrained(model, **kwargs)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\transformers\models\auto\auto_factory.py", line 566, in from_pretrained
+    return model_class.from_pretrained(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\transformers\modeling_utils.py", line 3414, in from_pretrained
+    resolved_archive_file = cached_file(
+                            ^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\transformers\utils\hub.py", line 385, in cached_file
+    resolved_file = hf_hub_download(
+                    ^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\huggingface_hub\utils\_validators.py", line 118, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\huggingface_hub\file_download.py", line 1457, in hf_hub_download
+    http_get(
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\huggingface_hub\file_download.py", line 541, in http_get
+    return http_get(
+           ^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\huggingface_hub\file_download.py", line 541, in http_get
+    return http_get(
+           ^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\huggingface_hub\file_download.py", line 451, in http_get
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\huggingface_hub\file_download.py", line 408, in _request_wrapper
+    response = get_session().request(method=method, url=url, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\huggingface_hub\utils\_http.py", line 67, in send
+    return super().send(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\requests\adapters.py", line 532, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: (ReadTimeoutError("HTTPSConnectionPool(host='cdn-lfs.huggingface.co', port=443): Read timed out. (read timeout=10)"), '(Request ID: ccdab0c3-4785-4a0b-9992-7717eb55b66d)')
+
+while loading with BartForSequenceClassification, an error is thrown:
+Traceback (most recent call last):
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\response.py", line 710, in _error_catcher
+    yield
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\response.py", line 814, in _raw_read
+    data = self._fp_read(amt) if not fp_closed else b""
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\response.py", line 799, in _fp_read
+    return self._fp.read(amt) if amt is not None else self._fp.read()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\http\client.py", line 466, in read
+    s = self.fp.read(amt)
+        ^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\socket.py", line 706, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\ssl.py", line 1311, in recv_into
+    return self.read(nbytes, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\ssl.py", line 1167, in read
+    return self._sslobj.read(len, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\requests\models.py", line 816, in generate
+    yield from self.raw.stream(chunk_size, decode_content=True)
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\response.py", line 936, in stream
+    data = self.read(amt=amt, decode_content=decode_content)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\response.py", line 879, in read
+    data = self._raw_read(amt)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\response.py", line 813, in _raw_read
+    with self._error_catcher():
+  File "C:\Program Files\Python311\Lib\contextlib.py", line 155, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\response.py", line 715, in _error_catcher
+    raise ReadTimeoutError(self._pool, None, "Read timed out.") from e  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='cdn-lfs.huggingface.co', port=443): Read timed out.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\huggingface_hub\file_download.py", line 524, in http_get
+    for chunk in r.iter_content(chunk_size=DOWNLOAD_CHUNK_SIZE):
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\requests\models.py", line 822, in generate
+    raise ConnectionError(e)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='cdn-lfs.huggingface.co', port=443): Read timed out.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\response.py", line 710, in _error_catcher
+    yield
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\response.py", line 814, in _raw_read
+    data = self._fp_read(amt) if not fp_closed else b""
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\response.py", line 799, in _fp_read
+    return self._fp.read(amt) if amt is not None else self._fp.read()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\http\client.py", line 466, in read
+    s = self.fp.read(amt)
+        ^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\socket.py", line 706, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\ssl.py", line 1311, in recv_into
+    return self.read(nbytes, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\ssl.py", line 1167, in read
+    return self._sslobj.read(len, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\requests\models.py", line 816, in generate
+    yield from self.raw.stream(chunk_size, decode_content=True)
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\response.py", line 936, in stream
+    data = self.read(amt=amt, decode_content=decode_content)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\response.py", line 879, in read
+    data = self._raw_read(amt)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\response.py", line 813, in _raw_read
+    with self._error_catcher():
+  File "C:\Program Files\Python311\Lib\contextlib.py", line 155, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\response.py", line 715, in _error_catcher
+    raise ReadTimeoutError(self._pool, None, "Read timed out.") from e  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='cdn-lfs.huggingface.co', port=443): Read timed out.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\huggingface_hub\file_download.py", line 524, in http_get
+    for chunk in r.iter_content(chunk_size=DOWNLOAD_CHUNK_SIZE):
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\requests\models.py", line 822, in generate
+    raise ConnectionError(e)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='cdn-lfs.huggingface.co', port=443): Read timed out.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\response.py", line 710, in _error_catcher
+    yield
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\response.py", line 814, in _raw_read
+    data = self._fp_read(amt) if not fp_closed else b""
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\response.py", line 799, in _fp_read
+    return self._fp.read(amt) if amt is not None else self._fp.read()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\http\client.py", line 466, in read
+    s = self.fp.read(amt)
+        ^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\socket.py", line 706, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\ssl.py", line 1311, in recv_into
+    return self.read(nbytes, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\ssl.py", line 1167, in read
+    return self._sslobj.read(len, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\requests\models.py", line 816, in generate
+    yield from self.raw.stream(chunk_size, decode_content=True)
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\response.py", line 936, in stream
+    data = self.read(amt=amt, decode_content=decode_content)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\response.py", line 879, in read
+    data = self._raw_read(amt)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\response.py", line 813, in _raw_read
+    with self._error_catcher():
+  File "C:\Program Files\Python311\Lib\contextlib.py", line 155, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\response.py", line 715, in _error_catcher
+    raise ReadTimeoutError(self._pool, None, "Read timed out.") from e  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='cdn-lfs.huggingface.co', port=443): Read timed out.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\huggingface_hub\file_download.py", line 524, in http_get
+    for chunk in r.iter_content(chunk_size=DOWNLOAD_CHUNK_SIZE):
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\requests\models.py", line 822, in generate
+    raise ConnectionError(e)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='cdn-lfs.huggingface.co', port=443): Read timed out.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\connection.py", line 203, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\connectionpool.py", line 491, in _make_request
+    raise new_e
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\connectionpool.py", line 467, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\connectionpool.py", line 1092, in _validate_conn
+    conn.connect()
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\connection.py", line 611, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\connection.py", line 210, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x000002B947555650>: Failed to resolve 'cdn-lfs.huggingface.co' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\urllib3\util\retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='cdn-lfs.huggingface.co', port=443): Max retries exceeded with url: /facebook/bart-large-mnli/cfbb687dbbd9df99fe865e1860350a22aebac4d26ee4bcb50217f1df606a018e?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27model.safetensors%3B+filename%3D%22model.safetensors%22%3B&Expires=1723790241&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyMzc5MDI0MX19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9mYWNlYm9vay9iYXJ0LWxhcmdlLW1ubGkvY2ZiYjY4N2RiYmQ5ZGY5OWZlODY1ZTE4NjAzNTBhMjJhZWJhYzRkMjZlZTRiY2I1MDIxN2YxZGY2MDZhMDE4ZT9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPSoifV19&Signature=fHfv2jrLgHiUe5TNA9ztxMimyhgKV3ylIfARPBzMtjIC9v0AL2vJM5Dskt0TK8Ts5FSUDa96dANAClao3Ga44k0OPO3JOeFVOvon33yGmuqx9aLYj8zf0iJMQnv8Qt34BCeY8K8z~P0U-rvf1D~Xqh-JvIxgDoSXwWIPbupMERUfqUdimKoN2F0j-JL8yyuAMsGJaxXSUJF~RPsvNGNlS8F-4Uf0qnMzbLjB7pcSbE0NHxSOckl2pjXbpzGFUqztlMHhX2McxMm2ek96V7igdvCU4iYzLyTZSDS3nbzRIzJElgqZLZUbAUxwtXNx7vJrKtrj-oDFOXi5cKxC-dusNQ__&Key-Pair-Id=K3ESJI6DHPFC7 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B947555650>: Failed to resolve 'cdn-lfs.huggingface.co' ([Errno 11001] getaddrinfo failed)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\transformers\pipelines\base.py", line 278, in infer_framework_load_model
+    model = model_class.from_pretrained(model, **kwargs)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\transformers\modeling_utils.py", line 3385, in from_pretrained
+    resolved_archive_file = cached_file(pretrained_model_name_or_path, filename, **cached_file_kwargs)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\transformers\utils\hub.py", line 385, in cached_file
+    resolved_file = hf_hub_download(
+                    ^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\huggingface_hub\utils\_validators.py", line 118, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\huggingface_hub\file_download.py", line 1457, in hf_hub_download
+    http_get(
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\huggingface_hub\file_download.py", line 541, in http_get
+    return http_get(
+           ^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\huggingface_hub\file_download.py", line 541, in http_get
+    return http_get(
+           ^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\huggingface_hub\file_download.py", line 541, in http_get
+    return http_get(
+           ^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\huggingface_hub\file_download.py", line 451, in http_get
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\huggingface_hub\file_download.py", line 408, in _request_wrapper
+    response = get_session().request(method=method, url=url, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\huggingface_hub\utils\_http.py", line 67, in send
+    return super().send(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\requests\adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: (MaxRetryError('HTTPSConnectionPool(host=\'cdn-lfs.huggingface.co\', port=443): Max retries exceeded with url: /facebook/bart-large-mnli/cfbb687dbbd9df99fe865e1860350a22aebac4d26ee4bcb50217f1df606a018e?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27model.safetensors%3B+filename%3D%22model.safetensors%22%3B&Expires=1723790241&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyMzc5MDI0MX19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5odWdnaW5nZmFjZS5jby9mYWNlYm9vay9iYXJ0LWxhcmdlLW1ubGkvY2ZiYjY4N2RiYmQ5ZGY5OWZlODY1ZTE4NjAzNTBhMjJhZWJhYzRkMjZlZTRiY2I1MDIxN2YxZGY2MDZhMDE4ZT9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPSoifV19&Signature=fHfv2jrLgHiUe5TNA9ztxMimyhgKV3ylIfARPBzMtjIC9v0AL2vJM5Dskt0TK8Ts5FSUDa96dANAClao3Ga44k0OPO3JOeFVOvon33yGmuqx9aLYj8zf0iJMQnv8Qt34BCeY8K8z~P0U-rvf1D~Xqh-JvIxgDoSXwWIPbupMERUfqUdimKoN2F0j-JL8yyuAMsGJaxXSUJF~RPsvNGNlS8F-4Uf0qnMzbLjB7pcSbE0NHxSOckl2pjXbpzGFUqztlMHhX2McxMm2ek96V7igdvCU4iYzLyTZSDS3nbzRIzJElgqZLZUbAUxwtXNx7vJrKtrj-oDFOXi5cKxC-dusNQ__&Key-Pair-Id=K3ESJI6DHPFC7 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002B947555650>: Failed to resolve \'cdn-lfs.huggingface.co\' ([Errno 11001] getaddrinfo failed)"))'), '(Request ID: 971127a0-6e8a-472d-8ca6-2b0ef777cd06)')
+
+
+
+2024-08-13 12:46:03,791 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\ZalimSk\\AppData\\Roaming\\Python\\Python311\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-08-13 12:46:03,854 - INFO - Using writeable comtypes cache directory: 'C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\comtypes\gen'
+2024-08-13 12:46:15,582 - INFO - NLP pipeline initialized successfully.
+2024-08-13 12:49:54,468 - INFO - Spoke: An unexpected error occurred: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-08-13 12:49:54,468 - ERROR - Unexpected error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2024-08-13 12:51:26,374 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\ZalimSk\\AppData\\Roaming\\Python\\Python311\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-08-13 12:51:26,375 - INFO - Using writeable comtypes cache directory: 'C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\comtypes\gen'
+2024-08-13 12:51:27,038 - INFO - NLP pipeline initialized successfully.
+2024-08-13 12:51:52,591 - INFO - Spoke: Sorry, I did not understand that.
+2024-08-13 12:52:56,918 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\ZalimSk\\AppData\\Roaming\\Python\\Python311\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-08-13 12:52:56,918 - INFO - Using writeable comtypes cache directory: 'C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\comtypes\gen'
+2024-08-13 12:52:57,344 - INFO - NLP pipeline initialized successfully.
+2024-08-13 12:53:12,566 - INFO - Spoke: Error executing command: 'candidate_labels' is an invalid keyword argument for str()
+2024-08-13 12:53:12,566 - ERROR - Error executing command: 'candidate_labels' is an invalid keyword argument for str()
+2024-08-13 12:53:22,580 - INFO - Spoke: Sorry, I did not understand that.
+2024-08-13 12:53:30,250 - INFO - Spoke: Sorry, I did not understand that.
+2024-08-13 12:53:46,609 - INFO - Spoke: Error executing command: 'candidate_labels' is an invalid keyword argument for str()
+2024-08-13 12:53:46,609 - ERROR - Error executing command: 'candidate_labels' is an invalid keyword argument for str()
+2024-08-13 12:55:38,350 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\ZalimSk\\AppData\\Roaming\\Python\\Python311\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-08-13 12:55:38,351 - INFO - Using writeable comtypes cache directory: 'C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\comtypes\gen'
+2024-08-13 12:55:38,675 - INFO - NLP pipeline initialized successfully.
+2024-08-13 12:56:13,557 - INFO - Spoke: Error executing command: Random.choice() got an unexpected keyword argument 'candidate_labels'
+2024-08-13 12:56:13,557 - ERROR - Error executing command: Random.choice() got an unexpected keyword argument 'candidate_labels'
+2024-08-13 12:56:44,372 - INFO - Spoke: Error executing command: Random.choice() got an unexpected keyword argument 'candidate_labels'
+2024-08-13 12:56:44,372 - ERROR - Error executing command: Random.choice() got an unexpected keyword argument 'candidate_labels'
+2024-08-13 13:00:00,049 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\ZalimSk\\AppData\\Roaming\\Python\\Python311\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-08-13 13:00:00,068 - INFO - Using writeable comtypes cache directory: 'C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\comtypes\gen'
+2024-08-13 13:00:02,967 - INFO - NLP pipeline initialized successfully.
+2024-08-13 13:01:27,124 - INFO - Spoke: Error executing command: string indices must be integers, not 'str'
+2024-08-13 13:01:27,124 - ERROR - Error executing command: string indices must be integers, not 'str'
+2024-08-13 13:01:57,107 - INFO - Spoke: Error executing command: string indices must be integers, not 'str'
+2024-08-13 13:01:57,107 - ERROR - Error executing command: string indices must be integers, not 'str'
+2024-08-13 13:02:09,143 - INFO - Spoke: Sorry, I did not understand that.
+2024-08-13 13:04:03,883 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\ZalimSk\\AppData\\Roaming\\Python\\Python311\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-08-13 13:04:03,885 - INFO - Using writeable comtypes cache directory: 'C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\comtypes\gen'
+2024-08-13 13:04:04,547 - INFO - NLP pipeline initialized successfully.
+2024-08-13 13:04:49,234 - INFO - Spoke: Error executing command: 'str' object is not callable
+2024-08-13 13:04:49,234 - ERROR - Error executing command: 'str' object is not callable
+2024-08-13 13:06:01,160 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\ZalimSk\\AppData\\Roaming\\Python\\Python311\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-08-13 13:06:01,161 - INFO - Using writeable comtypes cache directory: 'C:\Users\ZalimSk\AppData\Roaming\Python\Python311\site-packages\comtypes\gen'
+2024-08-13 13:06:01,556 - INFO - NLP pipeline initialized successfully.
+2024-08-13 13:06:35,941 - INFO - Spoke: Error executing command: 'str' object is not callable
+2024-08-13 13:06:35,941 - ERROR - Error executing command: 'str' object is not callable
+2024-08-13 13:06:42,637 - INFO - Spoke: Sorry, I did not understand that.

@@ -1,0 +1,193 @@
+2024-09-20 23:39:53,691 - Error: Unable to open video stream
+2024-09-21 10:25:06,287 - 
+    Error 275 for command:
+        open alert.mp3
+    Cannot find the specified file.  Make sure the path and filename are correct.
+2024-09-21 10:25:06,421 - 
+    Error 263 for command:
+        close alert.mp3
+    The specified device is not open or is not recognized by MCI.
+2024-09-21 10:25:06,422 - Failed to close the file: alert.mp3
+2024-09-21 10:25:06,422 - An error occurred: 
+    Error 275 for command:
+        open alert.mp3
+    Cannot find the specified file.  Make sure the path and filename are correct.
+2024-09-21 10:27:10,741 - 
+    Error 275 for command:
+        open alert.mp3
+    Cannot find the specified file.  Make sure the path and filename are correct.
+2024-09-21 10:27:10,741 - 
+    Error 263 for command:
+        close alert.mp3
+    The specified device is not open or is not recognized by MCI.
+2024-09-21 10:27:10,742 - Failed to close the file: alert.mp3
+2024-09-21 10:27:10,742 - An error occurred: 
+    Error 275 for command:
+        open alert.mp3
+    Cannot find the specified file.  Make sure the path and filename are correct.
+2024-09-21 10:37:30,936 - Error: Unable to open video stream
+2024-09-21 10:38:13,447 - Made a temporary copy of Add_this\Important Project (AI)\security_alarm.mp3 at C:\Users\ZalimSk\AppData\Local\Temp\PSr4_x73da.mp3 - use other filenames with only safe characters to avoid this.
+2024-09-21 10:38:35,695 - Email sending failed: 'NoneType' object has no attribute 'encode'
+2024-09-21 10:38:35,695 - Motion detected and alert sent.
+2024-09-21 10:39:05,721 - Made a temporary copy of Add_this\Important Project (AI)\security_alarm.mp3 at C:\Users\ZalimSk\AppData\Local\Temp\PSzm14orc2.mp3 - use other filenames with only safe characters to avoid this.
+2024-09-21 10:39:24,136 - Email sending failed: 'NoneType' object has no attribute 'encode'
+2024-09-21 10:39:24,136 - Motion detected and alert sent.
+2024-09-21 10:41:26,111 - Made a temporary copy of Add_this\Important Project (AI)\security_alarm.mp3 at C:\Users\ZalimSk\AppData\Local\Temp\PSkxn7nzio.mp3 - use other filenames with only safe characters to avoid this.
+2024-09-21 10:41:45,101 - Email sending failed: 'NoneType' object has no attribute 'encode'
+2024-09-21 10:41:45,101 - Motion detected and alert sent.
+2024-09-21 10:43:01,106 - Failed to capture video
+2024-09-21 10:46:37,544 - An error occurred: 'int' object is not callable
+2024-09-21 10:48:50,295 - An error occurred: OpenCV(4.10.0) D:\a\opencv-python\opencv-python\opencv\modules\imgcodecs\src\loadsave.cpp:708: error: (-2:Unspecified error) could not find a writer for the specified extension in function 'cv::imwrite_'
+
+2024-09-21 10:49:49,860 - Made a temporary copy of Add_this\Important Project (AI)\security_alarm.mp3 at C:\Users\ZalimSk\AppData\Local\Temp\PS59m22akj.mp3 - use other filenames with only safe characters to avoid this.
+2024-09-21 10:50:11,034 - Email sending failed: 'NoneType' object has no attribute 'encode'
+2024-09-21 10:50:11,034 - Motion detected and alert sent.
+2024-09-21 11:04:44,889 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.79.226:5000
+2024-09-21 11:04:44,934 - [33mPress CTRL+C to quit[0m
+2024-09-21 11:06:52,090 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.79.226:5000
+2024-09-21 11:06:52,091 - [33mPress CTRL+C to quit[0m
+2024-09-21 11:09:38,462 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.79.226:5000
+2024-09-21 11:09:38,462 - [33mPress CTRL+C to quit[0m
+2024-09-21 11:12:23,531 - An error occurred: cannot access local variable 'alert_sent_time' where it is not associated with a value
+2024-09-21 11:13:10,167 - An error occurred: cannot access local variable 'alert_sent_time' where it is not associated with a value
+2024-09-21 11:14:31,222 - An error occurred: cannot access local variable 'alert_sent_time' where it is not associated with a value
+2024-09-21 11:23:36,930 - An error occurred: cannot access local variable 'alert_sent_time' where it is not associated with a value
+2024-09-21 11:28:18,486 - An error occurred: cannot access local variable 'alert_sent_time' where it is not associated with a value
+2024-09-21 11:30:12,318 - 
+    Error 275 for command:
+        open static/alarm.mp3
+    Cannot find the specified file.  Make sure the path and filename are correct.
+2024-09-21 11:30:12,319 - 
+    Error 263 for command:
+        close static/alarm.mp3
+    The specified device is not open or is not recognized by MCI.
+2024-09-21 11:30:12,319 - Failed to close the file: static/alarm.mp3
+2024-09-21 11:30:12,320 - An error occurred: 
+    Error 275 for command:
+        open static/alarm.mp3
+    Cannot find the specified file.  Make sure the path and filename are correct.
+2024-09-21 11:32:57,643 - Made a temporary copy of Add_this\Important Project (AI)\alert-19307.mp3 at C:\Users\ZalimSk\AppData\Local\Temp\PSr0k42dwr.mp3 - use other filenames with only safe characters to avoid this.
+2024-09-21 11:32:57,715 - 
+    Error 305 for command:
+        open "C:\Users\ZalimSk\AppData\Local\Temp\PSr0k42dwr.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks.
+2024-09-21 11:32:57,715 - 
+    Error 263 for command:
+        close "C:\Users\ZalimSk\AppData\Local\Temp\PSr0k42dwr.mp3"
+    The specified device is not open or is not recognized by MCI.
+2024-09-21 11:32:57,715 - Failed to close the file: "C:\Users\ZalimSk\AppData\Local\Temp\PSr0k42dwr.mp3"
+2024-09-21 11:32:57,717 - An error occurred: 
+    Error 305 for command:
+        open "C:\Users\ZalimSk\AppData\Local\Temp\PSr0k42dwr.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks.
+2024-09-21 11:34:41,143 - Made a temporary copy of Add_this\Important Project (AI)lert-19307.mp3 at C:\Users\ZalimSk\AppData\Local\Temp\PSenn9o81h.mp3 - use other filenames with only safe characters to avoid this.
+2024-09-21 11:34:41,144 - An error occurred: [Errno 22] Invalid argument: 'Add_this\\Important Project (AI)\x07lert-19307.mp3'
+2024-09-21 11:35:42,637 - 
+    Error 275 for command:
+        open alert-19307.mp3
+    Cannot find the specified file.  Make sure the path and filename are correct.
+2024-09-21 11:35:42,637 - 
+    Error 263 for command:
+        close alert-19307.mp3
+    The specified device is not open or is not recognized by MCI.
+2024-09-21 11:35:42,638 - Failed to close the file: alert-19307.mp3
+2024-09-21 11:35:42,638 - An error occurred: 
+    Error 275 for command:
+        open alert-19307.mp3
+    Cannot find the specified file.  Make sure the path and filename are correct.
+2024-09-21 11:36:51,495 - Made a temporary copy of J:\Assistant JARVIS\Add_this\Important Project (AI)\security_alarm.mp3 at C:\Users\ZalimSk\AppData\Local\Temp\PSuun_c30v.mp3 - use other filenames with only safe characters to avoid this.
+2024-09-21 11:36:51,535 - 
+    Error 305 for command:
+        open "C:\Users\ZalimSk\AppData\Local\Temp\PSuun_c30v.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks.
+2024-09-21 11:36:51,535 - 
+    Error 263 for command:
+        close "C:\Users\ZalimSk\AppData\Local\Temp\PSuun_c30v.mp3"
+    The specified device is not open or is not recognized by MCI.
+2024-09-21 11:36:51,535 - Failed to close the file: "C:\Users\ZalimSk\AppData\Local\Temp\PSuun_c30v.mp3"
+2024-09-21 11:36:51,536 - An error occurred: 
+    Error 305 for command:
+        open "C:\Users\ZalimSk\AppData\Local\Temp\PSuun_c30v.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks.
+2024-09-21 11:38:06,130 - Made a temporary copy of J:\Assistant JARVIS\Add_this\Important Project (AI)\security_alarm.mp3\ at C:\Users\ZalimSk\AppData\Local\Temp\PS3exfc51i - use other filenames with only safe characters to avoid this.
+2024-09-21 11:38:06,132 - An error occurred: [Errno 22] Invalid argument: 'J:\\Assistant JARVIS\\Add_this\\Important Project (AI)\\security_alarm.mp3\\'
+2024-09-21 11:39:05,500 - Made a temporary copy of Add_this\Important Project (AI)\security_alarm.mp3\ at C:\Users\ZalimSk\AppData\Local\Temp\PS_zj6tqhg - use other filenames with only safe characters to avoid this.
+2024-09-21 11:39:05,502 - An error occurred: [Errno 22] Invalid argument: 'Add_this\\Important Project (AI)\\security_alarm.mp3\\'
+2024-09-21 11:39:46,779 - Made a temporary copy of Add_this\Important Project (AI)\security_alarm.mp3 at C:\Users\ZalimSk\AppData\Local\Temp\PSrv0ues_l.mp3 - use other filenames with only safe characters to avoid this.
+2024-09-21 11:40:07,106 - Email sending failed: 'NoneType' object has no attribute 'encode'
+2024-09-21 11:40:07,108 - Motion detected and alert sent.
+2024-09-21 11:52:36,595 - Error: Unable to open video stream
+2024-09-21 12:38:38,365 - Made a temporary copy of Add_this\Important Project (AI)\alert-19307.mp3 at C:\Users\ZalimSk\AppData\Local\Temp\PS2w4qu_g4.mp3 - use other filenames with only safe characters to avoid this.
+2024-09-21 12:38:38,450 - 
+    Error 305 for command:
+        open "C:\Users\ZalimSk\AppData\Local\Temp\PS2w4qu_g4.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks.
+2024-09-21 12:38:38,452 - 
+    Error 263 for command:
+        close "C:\Users\ZalimSk\AppData\Local\Temp\PS2w4qu_g4.mp3"
+    The specified device is not open or is not recognized by MCI.
+2024-09-21 12:38:38,452 - Failed to close the file: "C:\Users\ZalimSk\AppData\Local\Temp\PS2w4qu_g4.mp3"
+2024-09-21 12:38:38,453 - An error occurred: 
+    Error 305 for command:
+        open "C:\Users\ZalimSk\AppData\Local\Temp\PS2w4qu_g4.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks.
+2024-09-21 12:41:05,208 - Made a temporary copy of Add_this\Important Project (AI)\alert.mp3 at C:\Users\ZalimSk\AppData\Local\Temp\PSt1y9z_1o.mp3 - use other filenames with only safe characters to avoid this.
+2024-09-21 12:41:05,216 - 
+    Error 305 for command:
+        open "C:\Users\ZalimSk\AppData\Local\Temp\PSt1y9z_1o.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks.
+2024-09-21 12:41:05,216 - 
+    Error 263 for command:
+        close "C:\Users\ZalimSk\AppData\Local\Temp\PSt1y9z_1o.mp3"
+    The specified device is not open or is not recognized by MCI.
+2024-09-21 12:41:05,216 - Failed to close the file: "C:\Users\ZalimSk\AppData\Local\Temp\PSt1y9z_1o.mp3"
+2024-09-21 12:41:05,217 - An error occurred: 
+    Error 305 for command:
+        open "C:\Users\ZalimSk\AppData\Local\Temp\PSt1y9z_1o.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks.
+2024-09-21 12:42:14,890 - Made a temporary copy of Add_this\Important Project (AI)\security_alarm.mp3 at C:\Users\ZalimSk\AppData\Local\Temp\PS6o8z_i62.mp3 - use other filenames with only safe characters to avoid this.
+2024-09-21 12:42:14,909 - 
+    Error 305 for command:
+        open "C:\Users\ZalimSk\AppData\Local\Temp\PS6o8z_i62.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks.
+2024-09-21 12:42:14,909 - 
+    Error 263 for command:
+        close "C:\Users\ZalimSk\AppData\Local\Temp\PS6o8z_i62.mp3"
+    The specified device is not open or is not recognized by MCI.
+2024-09-21 12:42:14,909 - Failed to close the file: "C:\Users\ZalimSk\AppData\Local\Temp\PS6o8z_i62.mp3"
+2024-09-21 12:42:14,910 - An error occurred: 
+    Error 305 for command:
+        open "C:\Users\ZalimSk\AppData\Local\Temp\PS6o8z_i62.mp3"
+    Cannot specify extra characters after a string enclosed in quotation marks.
+2024-09-21 12:43:47,566 - 
+    Error 275 for command:
+        open security_alarm.mp3
+    Cannot find the specified file.  Make sure the path and filename are correct.
+2024-09-21 12:43:47,567 - 
+    Error 263 for command:
+        close security_alarm.mp3
+    The specified device is not open or is not recognized by MCI.
+2024-09-21 12:43:47,567 - Failed to close the file: security_alarm.mp3
+2024-09-21 12:43:47,567 - An error occurred: 
+    Error 275 for command:
+        open security_alarm.mp3
+    Cannot find the specified file.  Make sure the path and filename are correct.
+2024-09-21 12:45:22,144 - An error occurred: name '__path__' is not defined
+2024-09-21 12:47:18,594 - Made a temporary copy of J:\Assistant JARVIS\Add_this\Important Project (AI)\alert.mp3 at C:\Users\ZalimSk\AppData\Local\Temp\PSu27mzgd5.mp3 - use other filenames with only safe characters to avoid this.
+2024-09-21 12:47:39,822 - Email sending failed: 'NoneType' object has no attribute 'encode'
+2024-09-21 12:47:39,823 - Motion detected and alert sent.
+2024-09-21 12:48:11,752 - Made a temporary copy of J:\Assistant JARVIS\Add_this\Important Project (AI)\alert.mp3 at C:\Users\ZalimSk\AppData\Local\Temp\PShmgadhfa.mp3 - use other filenames with only safe characters to avoid this.
+2024-09-21 12:48:31,212 - Email sending failed: 'NoneType' object has no attribute 'encode'
+2024-09-21 12:48:31,213 - Motion detected and alert sent.
+2024-09-21 12:49:01,242 - Made a temporary copy of J:\Assistant JARVIS\Add_this\Important Project (AI)\alert.mp3 at C:\Users\ZalimSk\AppData\Local\Temp\PSs8iv00f2.mp3 - use other filenames with only safe characters to avoid this.
+2024-09-21 12:49:20,640 - Email sending failed: 'NoneType' object has no attribute 'encode'
+2024-09-21 12:49:20,640 - Motion detected and alert sent.

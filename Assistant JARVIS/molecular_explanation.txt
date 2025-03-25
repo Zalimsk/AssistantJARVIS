@@ -1,0 +1,7 @@
+
+        3D Model:
+        Yeh model water (H2O) ka molecular structure dikhata hai.
+        Ismein ek oxygen atom aur do hydrogen atoms hain.
+        Laal sphere oxygen ko represent karta hai, aur neele spheres hydrogen atoms hain.
+        Lines atoms ke beech ke bonds ko dikhate hain.
+        
